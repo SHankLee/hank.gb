@@ -1,0 +1,2 @@
+# mygo.gb
+gb test
